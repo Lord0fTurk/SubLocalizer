@@ -28,8 +28,6 @@
 6.  **TRANSLATE** butonuna basın.
 7.  Çevrilen dosya, orijinal dosyanın yanına `_tr.ass` (veya seçilen dil kodu) uzantısı ile kaydedilir.
 
-```
-
 ---
 
 ## 🇬🇧 English
@@ -57,4 +55,5 @@
 ```
 
 ---
+
 
