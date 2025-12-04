@@ -28,23 +28,6 @@
 6.  **TRANSLATE** butonuna basın.
 7.  Çevrilen dosya, orijinal dosyanın yanına `_tr.ass` (veya seçilen dil kodu) uzantısı ile kaydedilir.
 
-### Geliştiriciler İçin
-Bu projeyi geliştirmek isterseniz:
-
-```bash
-# Depoyu klonlayın
-git clone https://github.com/user/SubLocalizer.git
-cd SubLocalizer
-
-# Sanal ortam oluşturun
-python -m venv .venv
-.venv\Scripts\activate
-
-# Bağımlılıkları yükleyin
-pip install -r requirements.txt
-
-# Uygulamayı başlatın
-python main.py
 ```
 
 ---
@@ -71,26 +54,4 @@ python main.py
 6.  Click the **TRANSLATE** button.
 7.  The translated file will be saved next to the original file with a `_tr.ass` (or selected lang code) suffix.
 
-### For Developers
-If you want to contribute:
 
-```bash
-# Clone the repository
-git clone https://github.com/user/SubLocalizer.git
-cd SubLocalizer
-
-# Create virtual environment
-python -m venv .venv
-.venv\Scripts\activate  # On Windows
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the app
-python main.py
-```
-
----
-
-### License
-MIT License
