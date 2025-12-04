@@ -54,4 +54,7 @@
 6.  Click the **TRANSLATE** button.
 7.  The translated file will be saved next to the original file with a `_tr.ass` (or selected lang code) suffix.
 
+```
+
+---
 
